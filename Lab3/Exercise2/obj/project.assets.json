@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Full stack trainning\\homework\\Day2 - HW solution\\Lab3\\Exercise2\\Exercise2.csproj",
+      "projectUniqueName": "D:\\Full stack trainning\\homework\\Lab3\\Exercise2\\Exercise2.csproj",
       "projectName": "Exercise2",
-      "projectPath": "D:\\Full stack trainning\\homework\\Day2 - HW solution\\Lab3\\Exercise2\\Exercise2.csproj",
+      "projectPath": "D:\\Full stack trainning\\homework\\Lab3\\Exercise2\\Exercise2.csproj",
       "packagesPath": "C:\\Users\\rosen\\.nuget\\packages\\",
-      "outputPath": "D:\\Full stack trainning\\homework\\Day2 - HW solution\\Lab3\\Exercise2\\obj\\",
+      "outputPath": "D:\\Full stack trainning\\homework\\Lab3\\Exercise2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rosen\\AppData\\Roaming\\NuGet\\NuGet.Config",
